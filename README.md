@@ -43,8 +43,9 @@ url= # Discourse installation base url, without trailing /
 1. Choose a category to **copy from** (origin) by name
 1. Choose the name of the **new category** (destination)
 1. Choose the new category's **slug**
-1. Optionally, type in "yes" to indicate a group replacement mapping
-   Example, to replace *astro-studs* with *math-studs* and *astro-teach* with *math-teach*:
+1. Optionally, type in "yes" to indicate a group replacement mapping.
+   
+   For example, to replace *astro-studs* with *math-studs* and *astro-teach* with *math-teach*:
    ```
    Would you like to replace groups from the previous category with different ones, already created? (yes/no) yes
    How many groups? 2
