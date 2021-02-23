@@ -29,9 +29,9 @@ url= # Discourse installation base url, without trailing /
 1. Create a [virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
 1. [Activate](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#activating-a-virtual-environment) it
 1. Install the requirements
-```shell
-$ pip install -r requirements.txt
-```
+   ```shell
+   $ pip install -r requirements.txt
+   ```
 
 ## Running
 1. [Activate](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#activating-a-virtual-environment)
